@@ -73,3 +73,4 @@ Model Performance page.
 ## Tech Stack
 
 Python (pandas, scikit-learn, XGBoost), Jupyter Notebook, Power BI
+Python (pandas, scikit-learn, XGBoost), Jupyter Notebook, Power BI
