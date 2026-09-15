@@ -55,13 +55,13 @@ Three pages, built from the model's test-set predictions. The `.pbix` file itsel
 is not included in this repo; screenshots below capture the full dashboard content.
 
 ### Portfolio Overview
-![Portfolio Overview](Dashboards/Portfolio_Overview.png)
+![Profile_Overview](Dashboards/Profile_Overview.png) 
 
 ### Borrower Risk Profile
-![Borrower Risk Profile](Dashboards/Borrower_Risk_Profile.png)
+![Borrower_Risk_Profile](Dashboards/Borrower_Risk_Profile.png) 
 
 ### Model Performance & Geography
-![Model Performance and Geography](Dashboards/Model_Performance_and_Geography.png)
+![Model_Performance_and_Geography](Dashboards/Model_Performance_and_Geography.png) 
 
 ## Key Insight
 
